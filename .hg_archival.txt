@@ -1,0 +1,6 @@
+repo: 5a852f6063d1908a9e0e5cc59a51eeb5bffa9e07
+node: beb1ef7af4f61f0f4d0172ffbfca464129f6c288
+branch: Branch without gui mapping
+latesttag: null
+latesttagdistance: 115
+changessincelatesttag: 147
